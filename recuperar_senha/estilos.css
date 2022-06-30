@@ -1,0 +1,130 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    justify-content: center;
+    text-align: center;
+    width: 400px;
+    height: 700px;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color: #FFFFFF;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.recuperarsenha {
+    margin-top: 150px;
+    justify-content: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.informeemail {
+    margin-top: 60px;
+    justify-content: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.bar2 {
+    text-align: center;
+    width: 400px;
+    height: 36px;
+    top: 84px;
+    background: #C4BAFF;
+}
+
+.box {
+    box-sizing: border-box;
+    width: 217px;
+    height: 33px;
+    left: 51px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    margin-left: 90px;
+}
+
+.button1 {
+    margin-top: 40px;
+    width: 126px;
+    height: 33px;
+    left: 107px;
+    top: 292px;
+    background: #C4BAFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-left: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.bar {
+    justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+    width: 126px;
+    height: 33px;
+    border-radius: 10px;
+    margin-left: 140px;
+    top: 84px;
+    background: #C4BAFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.voltar {
+    margin-left: 155px;
+    width: 100px;
+    height: 20px;
+    left: 110px;
+    top: 264px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+    text-align: center;
+    color: #381CE8;
+}
+
+.footer {
+    margin-top: 250px;
+    text-align: center;
+    width: 400px;
+    height: 36px;
+    top: 84px;
+    background: #C4BAFF;
+}
